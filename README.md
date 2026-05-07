@@ -4,7 +4,7 @@ Scan2Learn is a full-stack intelligent learning assistant that extracts text fro
 
 It transforms raw notes into structured, personalized learning experiences — including summaries, grammar corrections, quizzes, weak-area detection, and adaptive practice schedules.
 
-🚀 Features
+## 🚀 Features
 1. OCR-Based Text Extraction
 
 Extracts text from:
@@ -34,62 +34,19 @@ Identifies topics where students struggle. Tracks performance trends.
 
 Suggests custom study plans. Adaptive learning workflow.
 
-🏗️ Tech Stack
-Frontend
-
-React.js
-
-HTML
-
-CSS
-
-JavaScript
-
-Backend
-
-Python
-
-Flask (if you used it, keep; otherwise remove)
-
-MySQL
-
-NLP & ML
-
-HuggingFace Transformers
-
-IndicNLP
-
-NLTK
-
-OCR & Image Processing
-
-Tesseract OCR
-
-OpenCV
-
-Version Control
-
-Git & GitHub
-
+## 🏗️ Tech Stack
+React.js, HTML, CSS, JavaScript, Python, Flask, NLP & ML, HuggingFace Transformers, IndicNLP, NLTK, OCR & Image Processing, Tesseract OCR, OpenCV, Version Control, Git & GitHub
 
 
 ⚙️ How It Works
 
-User uploads handwritten notes or PDFs.
-
-OCR extracts raw text.
-
-NLP pipeline processes the text:
-
-Cleaning
-
-Summarization
-
-Grammar correction
-
-Quiz generation
-
-Performance tracking module analyzes results.
-
-System generates personalized study recommendations.
+- User uploads handwritten notes or PDFs.
+- OCR extracts raw text.
+- NLP pipeline processes the text:
+- Cleaning
+- Summarization
+- Grammar correction
+- Quiz generation
+- Performance tracking module analyzes results.
+- System generates personalized study recommendations.
 
