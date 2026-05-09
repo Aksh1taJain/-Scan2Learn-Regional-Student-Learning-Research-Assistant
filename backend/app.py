@@ -26,7 +26,6 @@ def allowed_file(filename):
 
 
 # configure
-genai.configure(api_key=os.getenv("AIzaSyANgEEaMDlaRHYWTpRHpZ66aT7Llmg20JY"))
 
 def summarize_text(text):
     """
